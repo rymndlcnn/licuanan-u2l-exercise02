@@ -18,23 +18,23 @@ After creating a repository containing your webpage, you can follow these steps 
 Creating this simple portfolio website from scratch was an invaluable learning experience for me. Through this project, I gained practical skills in HTML and CSS that will serve me well as I continue pursuing front-end web development. Some key takeaways include:
 
 </br>
-* The importance of planning out the structure and layout of a page before starting to code. Using a wireframe to visualize the positioning of elements saved time and helped me organize the content logically.
+- The importance of planning out the structure and layout of a page before starting to code. Using a wireframe to visualize the positioning of elements saved time and helped me organize the content logically.
 
 </br>
-* How powerful CSS is for styling web pages and designing the look and feel. I gained experience with CSS properties like flexbox for layout, and typography and color choices for aesthetics.
+- How powerful CSS is for styling web pages and designing the look and feel. I gained experience with CSS properties like flexbox for layout, and typography and color choices for aesthetics.
 
 </br>
-* The value of semantic HTML tags like header, nav, section to structure the content meaningfully and improve 
+- The value of semantic HTML tags like header, nav, section to structure the content meaningfully and improve 
 accessibility. This will make the code more maintainable.
 
 </br>
-* Techniques for responsive design using relative units and media queries to optimize display on varying screen sizes.
+- Techniques for responsive design using relative units and media queries to optimize display on varying screen sizes.
 
 </br>
-* Ways to efficiently reuse CSS code, like using external stylesheets instead of inline styles. This improves code organization.
+- Ways to efficiently reuse CSS code, like using external stylesheets instead of inline styles. This improves code organization.
 
 </br>
-* The process for publishing to GitHub pages to host the live website. Using version control improved my workflow.
+- The process for publishing to GitHub pages to host the live website. Using version control improved my workflow.
 
 </br>
 Overall, this project gave me valuable hands-on practice developing a simple website from start to finish, and taught me web development skills and best practices that I will build on moving forward.
