@@ -2,7 +2,7 @@
 
 Created by: Raymond Licuanan | BS Computer Science
 </br>
-Website link:
+Website link: https://rymndlcnn.github.io/licuanan-u2l-exercise02
 
 ## How to create GitHub Page
 After creating a repository containing your webpage, you can follow these steps to host your website using GitHub Pages:
